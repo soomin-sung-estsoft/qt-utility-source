@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+src/QtUtilitySource/.vs
+src/QtUtilitySource/LayoutManager/obj
+src/QtUtilitySource/LayoutManager/bin
+src/QtUtilitySource/LayoutManager/LayoutManager.vcxproj.user
